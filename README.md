@@ -23,5 +23,5 @@ A project that contains a simple and easy approach to issues that a Muslim canno
 
 ## ✨ Live Demo
 
-Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
+Explore the interactive features and dynamic elements of ISLAMIC by visiting the hosted page on Github:
 [ISLAMIC Page](https://mhmdtahasherif.github.io/ISLAMIC/)
