@@ -19,3 +19,9 @@ A project that contains a simple and easy approach to issues that a Muslim canno
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-taha-sherif/)
+
+
+## ✨ Live Demo
+
+Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
+[ISLAMIC Page](https://mhmdtahasherif.github.io/ISLAMIC/)
