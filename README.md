@@ -6,7 +6,7 @@
 A project that contains a simple and easy approach to issues that a Muslim cannot be ignorant of. It includes issues of belief, jurisprudence, biography, etiquette, interpretation, hadith, morals and dhikr.
 
 ## 🚀 About Me
-I'm Mohamed Ahmed Frontend web developer...
+I'm Mohamed Taha Frontend web developer...
 
   
 ## 🕵️‍ Skills
